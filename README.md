@@ -1,6 +1,6 @@
 # Wall Segmentation — FRAMES Plugin
 
-A plugin for [FRAMES] that segments building walls in raw 3D LiDAR point clouds. Coursework project for **OSAD3D** (Optical Scanning and Analysing 3D data techniques), Warsaw University of Technology.
+A plugin for FRAMES that segments building walls in raw 3D LiDAR point clouds. Coursework project for **OSAD3D** (Optical Scanning and Analysing 3D data techniques), Warsaw University of Technology.
 
 ![Point cloud before and after segmentation](images/before_after_comparison.png)
 
